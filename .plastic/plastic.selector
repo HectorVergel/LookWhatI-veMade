@@ -1,0 +1,3 @@
+rep "Proyectos2@a2oCarrera@cloud"
+  path "/"
+    smartbranch "/main"

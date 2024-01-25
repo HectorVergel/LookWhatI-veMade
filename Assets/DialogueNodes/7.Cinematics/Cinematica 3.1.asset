@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: Cinematica 3.1
+  m_EditorClassIdentifier: 
+  Text: After defeating the guardian, it seemed that everything was finished
+  audio: {fileID: 8300000, guid: 7be4ab450f697564fb214df8e33dae98, type: 3}
+  TargetNode: {fileID: 11400000, guid: 3803cff3bab24da44a86b8e38abd0a2e, type: 2}
+  timeToStartNextDialogue: 0

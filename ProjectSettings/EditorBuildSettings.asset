@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: f11640049a21b09449abd37051d42582
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 38e103470ee39294c9dee78249346c53
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 4857dd203c8029341b77eaec7cf4d3bc
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: d46437734a2ffee4d90ef8a4fe0e85bf
+  - enabled: 1
+    path: Assets/Scenes/Plane.unity
+    guid: 33f779a6b9c8a794499064f898137d64
+  - enabled: 1
+    path: Assets/Scenes/Vertical.unity
+    guid: f0de55602aed63849956091a3bc98621
+  - enabled: 1
+    path: Assets/Scenes/Minas.unity
+    guid: 9e8fe0e96a863bc4a8285cc8ba146357
+  - enabled: 1
+    path: Assets/Scenes/Surface.unity
+    guid: f4a64322641ffa847a6b1be4f6c17e3b
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: cc59a88415ecec74daeeac12894a85cd
+  - enabled: 1
+    path: Assets/Scenes/FinalBoss.unity
+    guid: 74f3d4a574b570d478639e9dcc658d89
+  - enabled: 1
+    path: Assets/Scenes/CinematicaLore.unity
+    guid: 2e58ee830b1d125479391d871afdefa2
+  - enabled: 1
+    path: Assets/Scenes/CinematicaLore2.unity
+    guid: 3bd4befa9e9897549b7df156dff2f571
+  - enabled: 1
+    path: Assets/Scenes/CinematicaTutorial.unity
+    guid: 80e958c7e37729c45a4a7c17da7fd2a9
+  - enabled: 1
+    path: Assets/Scenes/CinematicaBoss.unity
+    guid: 3e7a95dd31efd0c4ab49dfb3a9863d7f
+  m_configObjects: {}

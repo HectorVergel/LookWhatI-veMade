@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: Cineamtica 1.1
+  m_EditorClassIdentifier: 
+  Text: Hey bro, Look what I've made. I've been creating a video game for the last
+    4 months
+  audio: {fileID: 8300000, guid: 7bc0d98deec822a428a73049e4cd5ea9, type: 3}
+  TargetNode: {fileID: 11400000, guid: 9087571a44401e54dad2e0c3cd3006b8, type: 2}
+  timeToStartNextDialogue: 0

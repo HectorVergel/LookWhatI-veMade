@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: 0.2.1
+  m_EditorClassIdentifier: 
+  Text: On this monument you can swap between both characters
+  audio: {fileID: 8300000, guid: 094d08438ea2e354596681b6a3aa5c44, type: 3}
+  TargetNode: {fileID: 11400000, guid: f6b3f659fc16c014bb34392b9a61cba3, type: 2}
+  timeToStartNextDialogue: 0

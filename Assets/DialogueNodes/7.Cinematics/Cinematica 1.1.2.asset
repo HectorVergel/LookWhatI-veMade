@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: Cinematica 1.1.2
+  m_EditorClassIdentifier: 
+  Text: To survive, we had to take refuge underground, in caves and old mines.
+  audio: {fileID: 8300000, guid: 85e01392a9bab174080b008069c36904, type: 3}
+  TargetNode: {fileID: 11400000, guid: 73da26b7a346a7d46979c83ab7f433f6, type: 2}
+  timeToStartNextDialogue: 0

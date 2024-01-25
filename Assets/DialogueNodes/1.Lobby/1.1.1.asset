@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: 1.1.1
+  m_EditorClassIdentifier: 
+  Text: On the right bottom corner I've just sent you a discord message
+  audio: {fileID: 8300000, guid: 968ff1955362e91418fa637eea294cd7, type: 3}
+  TargetNode: {fileID: 11400000, guid: 8c9b00e3365e5fe4482a7c5814719136, type: 2}
+  timeToStartNextDialogue: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44982010a198c24e8359ad6048f46ab, type: 3}
+  m_Name: Cineamtica 1.2
+  m_EditorClassIdentifier: 
+  Text: I'm thinking of putting it up for sale because it's super cool
+  audio: {fileID: 8300000, guid: 07e743c3c535a9c4c9437d7f24b0ad40, type: 3}
+  TargetNode: {fileID: 11400000, guid: e492e332ea155134a97457fad9b3c8c0, type: 2}
+  timeToStartNextDialogue: 0
